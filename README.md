@@ -23,7 +23,7 @@
 - 🧹 [Pandas Data Audit Toolkit](https://github.com/talhaumer/data-audit-utils)
 
 ### 📫 Connect With Me
-- 💼 [LinkedIn](https://linkedin.com/in/talhaumer)
+- 💼 [LinkedIn](https://linkedin.com/in/talha-umer)
 - 🐙 [GitHub](https://github.com/talhaumer)
 - ✉️ Email: youremail@example.com
 
