@@ -25,7 +25,7 @@
 ### 📫 Connect With Me
 - 💼 [LinkedIn](https://linkedin.com/in/talha-umer)
 - 🐙 [GitHub](https://github.com/talhaumer)
-- ✉️ Email: youremail@example.com
+- ✉️ Email: talhaumer7@gmail.com
 
 ---
 
