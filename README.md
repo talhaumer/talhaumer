@@ -17,9 +17,7 @@
 - API integrations for marketing and user behavior platforms (e.g., Adjust, Amplitude)
 
 ### 📌 Featured Projects
-- 🔄 [Redshift ETL Pipeline with Dagster](https://github.com/talhaumer/redshift-dagster-etl)
-- ⚡ [Real-time FX Trade Stream Processing](https://github.com/talhaumer/fx-kafka-stream)
-- 📦 [Adjust API Connector (Marketing Analytics)](https://github.com/talhaumer/adjust-api-extractor)
+- 🔄 [Redshift ETL Pipeline with Dagster](https://github.com/talhaumer/dagster_redshift_etl)
 - 🧹 [Pandas Data Audit Toolkit](https://github.com/talhaumer/data-audit-utils)
 
 ### 📫 Connect With Me
