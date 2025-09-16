@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Talha Umer
 
-🚀 **Data Engineer** with over 5 years of experience building scalable, reliable, and production-ready data systems. I specialize in ETL development, real-time processing, and cloud-native architectures.
+🚀 **AI Driven Data Engineer** with over 5 years of experience building scalable, reliable, and production-ready data systems. I specialize in ETL development, real-time processing, and cloud-native architectures.
 
 ### 🛠️ Tech Stack
 - **Languages**: Python, SQL, Bash
