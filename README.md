@@ -7,6 +7,7 @@
 - **Big Data**: PySpark, EMR, Glue, Athena
 - **Cloud Platforms**: AWS (Lambda, Redshift, S3), GCP
 - **Data Tools**: Airflow, Dagster, Kafka, Adjust API, Pandas
+- **AI Tools**: LangChain, LangGraph, Model Context Protocol (MCP), LLMs (GPT, Claude, Gemini), Automation Frameworks
 - **Databases**: MySQL, PostgreSQL, Redshift, NoSQL
 
 ### 📊 Focus Areas
