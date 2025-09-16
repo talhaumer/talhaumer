@@ -18,7 +18,7 @@
 
 ### 📌 Featured Projects
 - 🔄 [Redshift ETL Pipeline with Dagster](https://github.com/talhaumer/dagster_redshift_etl)
-- 🧹 [Pandas Data Audit Toolkit](https://github.com/talhaumer/data-audit-utils)
+- 🧹 [Data Sentinel: Autonomous data quality agent. Self-checking, reasoning, fixing. Shows data engineering + AI skills](https://github.com/talhaumer/agentic-data-sentinel)
 
 ### 📫 Connect With Me
 - 💼 [LinkedIn](https://linkedin.com/in/talha-umer)
